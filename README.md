@@ -1,5 +1,6 @@
 #Tour
- 
+
+This is a React app that allows us to see some places around the world to make a tour.
 
 ## Summary
 
