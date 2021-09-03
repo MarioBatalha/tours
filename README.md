@@ -1,6 +1,16 @@
-#Tour
+<h1 align="center">Tours</h1>
 
 This is a React app that allows us to see some places around the world to make a tour.
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFA800&labelColor=000000">
+
+ <img src="https://img.shields.io/static/v1?label=Tours&message=App&color=FFA800&labelColor=000000" alt="Sapar delivery" />
+</p>
+
+<h1 align="center">
+  <img alt="Tours App" height=70%" width="100%" title="Template" src=".//src/img/tour.png" />
+</h1>
 
 ## Summary
 
